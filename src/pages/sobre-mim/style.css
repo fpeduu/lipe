@@ -1,0 +1,15 @@
+.about-me-container .text-sheet {
+  width: 80vw;
+
+  max-width: 50rem;
+
+  font-size: 1.25rem;
+}
+
+.text-sheet span {
+  color: #0197f6;
+}
+
+p + p {
+  margin-top: 2rem;
+}
