@@ -7,7 +7,7 @@ function Secret() {
   const [passed, setPassed] = useState(false);
 
   const verifyPassword = () => {
-    if (password === "queijo") {
+    if (password === "chocolate") {
       setPassed(true);
     } else {
       alert("Senha incorreta!");
