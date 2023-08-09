@@ -8,27 +8,46 @@ function Aboutme() {
 
       <div className="text-sheet mt-4">
         <p>
-          Filipe Eduardo Ferreira da Silva (aka <strong>lipe</strong>) tem 19
-          anos e adora explorar <span>c</span>oisas novas. A busca de coisas que
-          prendam seu interesse é, desde pequeno e ainda <span>ho</span>je, seu
-          passatempo favorito. Desde advogado até psi<span>c</span>ólogo, lipe
-          já cogitou várias opções de carreira, até que decidiu (em agosto de
-          2019) que queria passar, ao menos, os próximos anos da sua vida na
-          frente de um computador, escrevendo programas. Depois de um tempo,
-          aprender deixou de ser uma atividade e se tornou uma{" "}
-          <strong>paixão</strong>.
+          Filipe Eduardo Ferreira da Silva (aka lipe) tem 19 anos e adora
+          explorar{" "}
+          <strong>
+            <span>c</span>
+          </strong>
+          oisas novas. A busca de coisas que prendam seu interesse é, desde
+          pequeno e ainda{" "}
+          <strong>
+            <span>ho</span>
+          </strong>
+          je, seu passatempo favorito. Desde advogado até psi
+          <strong>
+            <span>c</span>
+          </strong>
+          ólogo, lipe já cogitou várias opções de carreira, até que decidiu (em
+          agosto de 2019) que queria passar, ao menos, os próximos anos da sua
+          vida na frente de um computador, escrevendo programas. Depois de um
+          tempo, aprender deixou de ser uma atividade e se tornou uma paixão.
         </p>
 
         <p>
           Lipe, apesar de meio disperso, gosta de estar disponível às pessoas
           que ama. Ele acredita que uma boa relação com amigos e família é{" "}
-          <strong>essencial</strong> na vida. As coisas que mais gosta de fazer
-          são jogar, passar um bom tempo com amigos e s<span>ol</span>ucionar
-          problemas que chamam sua atenção. Desde o ensino médio, ele percebeu
-          que gostav<span>a</span> de se aprofundar nas áreas de seu in
-          <span>te</span>resse, e de trabalhar em conjunto com outras pessoas.
-          Por fim, depois de experimentar diversas áreas e pensar em diversos
-          cursos diferentes, ele decidiu virar programador :').
+          essencial na vida. As coisas que mais gosta de fazer são jogar, passar
+          um bom tempo com amigos e s
+          <strong>
+            <span>ol</span>
+          </strong>
+          ucionar problemas que chamam sua atenção. Desde o ensino médio, ele
+          percebeu que gostav
+          <strong>
+            <span>a</span>
+          </strong>{" "}
+          de se aprofundar nas áreas de seu in
+          <strong>
+            <span>te</span>
+          </strong>
+          resse, e de trabalhar em conjunto com outras pessoas. Por fim, depois
+          de experimentar diversas áreas e pensar em diversos cursos diferentes,
+          ele decidiu virar programador :').
         </p>
 
         <p>
