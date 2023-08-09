@@ -1,0 +1,43 @@
+.link-button {
+  display: flex;
+  flex-direction: column;
+
+  width: 20rem;
+  max-width: 80vw;
+
+  text-decoration: none;
+
+  color: #333;
+
+  transition-duration: 0.3s;
+
+  border: 1px solid #d6d6d6;
+  border-radius: 0.5rem;
+
+  padding: 1rem;
+}
+
+.link-button + .link-button {
+  margin-left: 1rem;
+}
+
+.link-button:hover {
+  color: #0197f6;
+  border-color: #0197f6;
+}
+
+.link-button strong {
+  font-size: 2rem;
+}
+
+.link-button p {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+@media (max-width: 800px) {
+  .link-button + .link-button {
+    margin-left: 0;
+    margin-top: 1.5rem;
+  }
+}

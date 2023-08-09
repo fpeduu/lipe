@@ -1,0 +1,53 @@
+img {
+  width: 13rem;
+
+  border-radius: 50%;
+}
+
+.home-container h1 {
+  margin: 1rem 0 0.5rem;
+
+  font-size: 3.5rem;
+  font-weight: 700;
+}
+
+.home-container p {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.home-container span {
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+
+  margin-top: 2rem;
+
+  flex-wrap: wrap;
+}
+
+@media (max-width: 800px) {
+  .home-container {
+    flex-direction: column;
+  }
+
+  .home-container h1 {
+    font-size: 2.5rem;
+  }
+
+  .home-container p {
+    font-size: 1rem;
+  }
+
+  .home-container span {
+    font-size: 0.8rem;
+  }
+
+  .buttons {
+    flex-direction: column;
+  }
+}
